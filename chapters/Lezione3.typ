@@ -1,7 +1,5 @@
 #import "../template.typ": *
 
-= Lezione 3
-
 == Orthogonal Frequency Division Multiplexing (OFDM)
 L'*OFDM* è un concetto di modulazione che tenta di risolvere il problema principale del *Frequency Division Multiplexing* (FDM), ovvero l'inefficienza spettrale dovuta alla necessità di inserire delle *guard bands* tra le diverse portanti per evitare interferenze.
 
